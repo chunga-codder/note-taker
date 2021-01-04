@@ -1,4 +1,6 @@
-## PHOTO OF APP
+# note-taker
+
+
 
 this is how the app will look like after deployment
 
