@@ -19,6 +19,10 @@ https://github.com/chunga-codder/note-taker
 https://note-tk.herokuapp.com/
 
 
+## VIDEO LINK :
+
+https://drive.google.com/file/d/1UR9BbCcA5ZzwIJudZAAdxJFVY6VNIX-p/view
+
 
 
 # ABOUT
