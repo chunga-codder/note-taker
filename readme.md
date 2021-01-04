@@ -11,6 +11,14 @@ this is how the app will look like after deployment
 
 ## LINKS TO DEPLOYED AND GITHUB APP
 
+### GIT HUB : 
+https://github.com/chunga-codder/note-taker
+
+### HERUKU :
+
+https://note-tk.herokuapp.com/
+
+
 
 
 # ABOUT
