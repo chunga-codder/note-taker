@@ -9,6 +9,8 @@ this is how the app will look like after deployment
 
 ![note-taker](https://user-images.githubusercontent.com/71171928/103551443-a1bf2e80-4eaa-11eb-963a-dbd28e18606b.PNG)
 
+## LINKS TO DEPLOYED AND GITHUB APP
+
 
 
 # ABOUT
