@@ -41,3 +41,20 @@ My second challenge was then to write the user's notes to the server. As the JSO
 I struggled with finding a working method for the delete function. Eventually after some debugging I found the best method to remove a note using my unique IDs was to use a filter that would return an array with every entry except the entry I was looking for. By rewriting the unique IDs of each entry after the removal, I was able to ensure that every note's ID was equal to their position in the array, thus the delete function would remove only the selected note every time.
 
 Another challenge I had was applying the * path in my get requests. When I tried to apply the * path for the index page, I found that it would override the other unique paths I had defined. Eventually I found out that the order of get requests reflects the order of precedence, so defining the * path first would prevent the other paths from working properly! In the end, moving this path to the end of my get requests solved the issue.
+
+
+## DEVELOPMENT
+
+Below are the steps I took to create the application as it is so far. The most difficult aspect of this application for me was using a constructor to cover all aspects of the notes (writing, reading, saving, deleting).
+
+Created and linked the initial files (JS files, HTML files, JSON files).
+
+Downloaded all dependecies using npm.
+
+Created all routes and verified them with small tests using Postman.
+
+Created a constructor which contained functions for each element of the notes (writing, reading, saving, deleting).
+
+Verify the functionality of the application, then deploy to Heroku.
+
+Testing
