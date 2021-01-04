@@ -1,5 +1,13 @@
 ## PHOTO OF APP
 
+this is how the app will look like after deployment
+
+![Capture 2](https://user-images.githubusercontent.com/71171928/103551427-9d931100-4eaa-11eb-883f-8044b3a3fe43.PNG)
+
+
+![note-taker](https://user-images.githubusercontent.com/71171928/103551443-a1bf2e80-4eaa-11eb-963a-dbd28e18606b.PNG)
+
+
 
 # ABOUT
 
