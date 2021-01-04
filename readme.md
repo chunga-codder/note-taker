@@ -1,5 +1,28 @@
-## APPROACH
-  
+
+# ABOUT
+
+Express Note Taker
+
+The purpose of this project was to build an application that can write, save, and delete notes using an express backend to save and retrieve note data from a JSON file. The project user story is below.
+
+AS A user, I want to be able to write and save notes
+
+I WANT to be able to delete notes I've written before
+
+SO THAT I can organize my thoughts and keep track of tasks I need to complete
+The criteria for a successful project are below:
+
+Application should allow users to create and save notes.
+
+Application should allow users to view previously saved notes.
+
+Application should allow users to delete previously saved notes.
+
+
+
+
+
+  ## APPROACH
   As the front end was already created, I needed to look at connecting this to the backend. I broke down the problem into smaller objectives:
 
 Start a server using Express
